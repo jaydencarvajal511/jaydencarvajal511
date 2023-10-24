@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @jaydencarvajal511
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+* Hi, I'm Jayden!!
+* I started coding over the pandemic because I was looking for a hobby.
+* My favorite language is JavaScript! 👨‍💻
 
-<!---
-jaydencarvajal511/jaydencarvajal511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ 
+Over the years I have made many different projects to help me learn coding, but some of my favorite have been: 
+ - [Rotations](https://github.com/jaydencarvajal511/Rotations)
+ - [Zombie Hunters 2D](https://github.com/jaydencarvajal511/ZombieHunters2D)
+ - [Rowdle](https://github.com/jaydencarvajal511/Rowdle)
+ - [LEAD Conscsultancy, LLC](https://github.com/jaydencarvajal511/LEADConsultancy)
