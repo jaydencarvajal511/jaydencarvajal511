@@ -1,6 +1,7 @@
 * Hi, I'm Jayden!!
 * I started coding over the pandemic because I was looking for a hobby.
 * My favorite language is JavaScript! 👨‍💻
+* Lockheed Martin Code Quest: 3rd Place in my category 🥉
 
 
  
