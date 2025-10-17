@@ -8,17 +8,17 @@ Since then, I’ve been building projects that challenge me to learn something n
 ---
 
 ### 🚀 About Me
-- 🎓 Honors student at **Northeastern University**, minoring in **Mathematics**.
-- 🌱 Currently focused on **full-stack development** and **object oriented design**.
-- 💬 Favorite language: **JavaScript** (lots of love for Java as well 😁).  
-- 🏆 **Northeastern ACM Hackathon:** 1st Place in healthcare track 🏅 
-- 🏆 **Lockheed Martin Code Quest:** 3rd Place in category 🥉
-- 🎧 **Outside of code I love to:** Listen to Music, Play Basketball, Play Guitar
+- Honors student at **Northeastern University**, minoring in **Mathematics**.
+- Currently focused on **full-stack development** and **object oriented design**.
+- Favorite language: **JavaScript** (lots of love for Java as well 😁).  
+- **Northeastern ACM Hackathon:** 1st Place in healthcare track 🏅 
+- **Lockheed Martin Code Quest:** 3rd Place in category 🥉
+- **Outside of code I love to:** Listen to Music, Play Basketball, Play Guitar
 
   
 ---
 
-### 🧰 Languages & Tools
+### 👨‍💻 Languages & Tools
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
