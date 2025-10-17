@@ -34,6 +34,6 @@ Since then, I’ve been building projects that challenge me to learn something n
 
 ### 🌐 Let’s Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/jayden-carvajal/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jaydencarvajal/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn"/></a>
   <a href="mailto:carvajal.ja@northeastern.edu"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" alt="Email"/></a>
 </p>
